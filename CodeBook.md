@@ -1,4 +1,4 @@
-#The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
+# The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
 **Assign each data to variables**
 - features <- features.txt : 561 rows, 2 columns
